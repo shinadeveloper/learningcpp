@@ -1,7 +1,7 @@
-#include <iostream>
-#include <math.h>
-#include <bits.h>
-using namespace std;
+// #include <iostream>
+// #include <math.h>
+// #include <bits.h>
+// using namespace std;
 
 //1st question
 // int main()
